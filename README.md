@@ -89,5 +89,26 @@ This project demonstrates how matrix factorization can effectively transform com
 
 This repository provides a comprehensive, step-by-step approach to building and evaluating a collaborative filtering based Movie Recommendation System using matrix factorization techniques.
 ## OUTPUTS
+## Top Movie Recommendations Table Output
+
+_Displays the top 10 movie recommendations for a specific user. Each entry includes the movie ID and its title, generated based on the learned user preferences and predicted ratings._
+
+![Top Movie Recommendations Table](path/to/Screenshot-2025-08-02-at-12.41.43-AM.jpg)
+
+---
+
+## Learning Curve: RMSE Over Training Iterations
+
+_Plots the RMSE (Root Mean Square Error) against the number of training iterations. This curve visualizes performance improvement and convergence of the matrix factorization model._
+
+![Learning Curve: RMSE](path/to/Screenshot-2025-08-02-at-12.41.52-AM.jpg)
+
+---
+
+## Top 10 Movie Recommendations – Bar Plot Visualization
+
+_Shows a horizontal bar chart of the top 10 recommended movies for the user, with predicted ratings on the x-axis and movie titles on the y-axis, providing a visual summary of the model’s recommendations._
+
+![Top 10 Recommendations Bar Plot](path/to/Screenshot-2025-08-02-at-12.42.00-AM.jpg)
 
 
