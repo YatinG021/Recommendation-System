@@ -1,7 +1,18 @@
-
 # Movie Recommendation System Using Matrix Factorization
 
-## Introduction
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: YATIN GOGIA
+
+*INTERN ID*: CT04DH1053
+
+*DOMAIN*: MACHINE LEARNING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+*DESCRIPTION* :
 
 This Movie Recommendation System harnesses the power of matrix factorization, a widely utilized collaborative filtering technique, to generate personalized movie suggestions. Such systems are fundamental to streaming platforms, entertainment apps, and e-commerce portals, significantly improving user engagement through individualized recommendations.
 
@@ -77,4 +88,6 @@ This project demonstrates how matrix factorization can effectively transform com
 ---
 
 This repository provides a comprehensive, step-by-step approach to building and evaluating a collaborative filtering based Movie Recommendation System using matrix factorization techniques.
+## OUTPUTS
+
 
