@@ -93,22 +93,19 @@ This repository provides a comprehensive, step-by-step approach to building and 
 
 _Displays the top 10 movie recommendations for a specific user. Each entry includes the movie ID and its title, generated based on the learned user preferences and predicted ratings._
 
-![Top Movie Recommendations Table](path/to/Screenshot-2025-08-02-at-12.41.43-AM.jpg)
-
----
+<img width="610" height="199" alt="Image" src="https://github.com/user-attachments/assets/39f97eee-c8e8-4476-bd96-6ac771994501" />
 
 ## Learning Curve: RMSE Over Training Iterations
 
 _Plots the RMSE (Root Mean Square Error) against the number of training iterations. This curve visualizes performance improvement and convergence of the matrix factorization model._
 
-![Learning Curve: RMSE](path/to/Screenshot-2025-08-02-at-12.41.52-AM.jpg)
-
----
+<img width="799" height="483" alt="Image" src="https://github.com/user-attachments/assets/869c3308-05a9-44a2-ba9f-6d632b9b652e" />
 
 ## Top 10 Movie Recommendations – Bar Plot Visualization
 
 _Shows a horizontal bar chart of the top 10 recommended movies for the user, with predicted ratings on the x-axis and movie titles on the y-axis, providing a visual summary of the model’s recommendations._
 
-![Top 10 Recommendations Bar Plot](path/to/Screenshot-2025-08-02-at-12.42.00-AM.jpg)
+<img width="1002" height="318" alt="Image" src="https://github.com/user-attachments/assets/e5fece9e-5622-499b-91cd-9af4e7ac1ebf" />
+
 
 
